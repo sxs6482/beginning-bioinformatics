@@ -1,3 +1,3 @@
 # beginning-bioinformatics
-Beginning bioinformatics course code
+Beginning bioinformatics 
 Sukanya Samaddar + 1002306480 + BIOL5340-001
